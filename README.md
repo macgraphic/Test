@@ -1,4 +1,4 @@
 Some info here
 
 
-[![WordCamp Belfast venue](https://img.youtube.com/yiXRDlKsfRE.jpg)](//www.youtube.com/watch?v=yiXRDlKsfRE "WordCamp Belfast venue")
+[![WordCamp Belfast venue](//i9.ytimg.com/vi/yiXRDlKsfRE/mq2.jpg)](//www.youtube.com/watch?v=yiXRDlKsfRE "WordCamp Belfast venue")
