@@ -1,4 +1,4 @@
 Some info here
 
 
-[![WordCamp Belfast venue](https://i9.ytimg.com/vi/yiXRDlKsfRE/mq2.jpg)](//www.youtube.com/watch?v=yiXRDlKsfRE "WordCamp Belfast venue")
+[![Set up a WordPress.org and Slack account for the Make WordPress Channel - English version](https://i9.ytimg.com/vi/XjO7sGhNJ9o/mq2.jpg)](//www.youtube.com/watch?v=XjO7sGhNJ9o "Set up a WordPress.org and Slack account for the Make WordPress Channel - English version")
